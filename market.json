@@ -1,42 +1,42 @@
 {
-  "generated_at": "2026-09-13T07:44:31.107961+00:00",
+  "generated_at": "2026-09-13T07:45:35.976942+00:00",
   "market": "XRP-EUR",
-  "price": 1.17271,
+  "price": 1.17293,
   "ticker_24h": {
     "market": "XRP-EUR",
-    "last": 1.17289,
-    "open": 1.1794,
+    "last": 1.17274,
+    "open": 1.17956,
     "high": 1.19245,
     "low": 1.16782,
-    "volume": 6535340.594197,
-    "volume_quote": 7707931.290501239,
-    "bid": 1.1727,
-    "ask": 1.17288,
-    "change_pct": -0.5519755808037998
+    "volume": 6527553.066023,
+    "volume_quote": 7698671.391356872,
+    "bid": 1.17274,
+    "ask": 1.17293,
+    "change_pct": -0.5781816948692774
   },
   "spread": {
-    "bid": 1.1727,
-    "ask": 1.17287,
-    "spread": 0.00017000000000000348,
-    "spread_pct": 0.014495410497235508
+    "bid": 1.17274,
+    "ask": 1.17293,
+    "spread": 0.0001900000000001345,
+    "spread_pct": 0.016200062242355873
   },
   "orderbook": {
     "bids": [
       {
-        "price": 1.1727,
-        "amount": 619.829518
+        "price": 1.17274,
+        "amount": 38.894189
+      },
+      {
+        "price": 1.17273,
+        "amount": 735.339641
+      },
+      {
+        "price": 1.17267,
+        "amount": 1470.679283
       },
       {
         "price": 1.17266,
-        "amount": 332.21023
-      },
-      {
-        "price": 1.17264,
-        "amount": 367.639321
-      },
-      {
-        "price": 1.17261,
-        "amount": 1103.263603
+        "amount": 1442.065874
       },
       {
         "price": 1.1726,
@@ -47,42 +47,38 @@
         "amount": 2381.950104
       },
       {
-        "price": 1.17255,
-        "amount": 1247.798997
+        "price": 1.17248,
+        "amount": 852.867255
+      },
+      {
+        "price": 1.17245,
+        "amount": 74.166508
       },
       {
         "price": 1.17244,
-        "amount": 21173.587384
+        "amount": 24758.375613
       },
       {
         "price": 1.1724,
-        "amount": 721.236837
-      },
-      {
-        "price": 1.17237,
-        "amount": 852.936239
+        "amount": 77.854485
       }
     ],
     "asks": [
       {
-        "price": 1.17287,
-        "amount": 8.53436
+        "price": 1.17293,
+        "amount": 6600.176824
       },
       {
-        "price": 1.17288,
-        "amount": 5882.229135
+        "price": 1.17294,
+        "amount": 21159.323774
       },
       {
-        "price": 1.17289,
+        "price": 1.173,
+        "amount": 1470.673701
+      },
+      {
+        "price": 1.17306,
         "amount": 21173.587384
-      },
-      {
-        "price": 1.17295,
-        "amount": 619.829518
-      },
-      {
-        "price": 1.17305,
-        "amount": 22421.463138
       },
       {
         "price": 1.17321,
@@ -90,19 +86,23 @@
       },
       {
         "price": 1.17322,
+        "amount": 24114.94595
+      },
+      {
+        "price": 1.17326,
+        "amount": 1352.7
+      },
+      {
+        "price": 1.17332,
+        "amount": 8524.363482
+      },
+      {
+        "price": 1.17334,
         "amount": 21173.587384
       },
       {
-        "price": 1.17333,
-        "amount": 8524.277487
-      },
-      {
-        "price": 1.17337,
-        "amount": 1439.970801
-      },
-      {
-        "price": 1.17338,
-        "amount": 1102.550277
+        "price": 1.17335,
+        "amount": 1014.6
       }
     ]
   },
@@ -110,34 +110,26 @@
     "5m": {
       "summary": {
         "count": 120,
-        "lookback_open": 1.17721,
-        "last_close": 1.17164,
+        "lookback_open": 1.17722,
+        "last_close": 1.173,
         "lookback_high": 1.18202,
         "lookback_low": 1.16782,
-        "lookback_volume": 2531971.606307,
-        "lookback_move_pct": -0.47315262357608967,
-        "last_candle_move_pct": -0.12701064673139584,
-        "last_closed_timestamp": 1789284900000
+        "lookback_volume": 2563182.00258,
+        "lookback_move_pct": -0.3584716535566801,
+        "last_candle_move_pct": 0.06739406761586686,
+        "last_closed_timestamp": 1789285200000
       },
       "analysis": {
-        "price": 1.17164,
-        "last_high": 1.17313,
-        "last_low": 1.171,
-        "ema20": 1.1753964817143776,
-        "ema50": 1.176773147944599,
-        "rsi14": 22.37058148633045,
-        "volume_ratio": 0.1803968984786568,
-        "last_closed_timestamp": 1789284900000
+        "price": 1.173,
+        "last_high": 1.17399,
+        "last_low": 1.17221,
+        "ema20": 1.175168239698499,
+        "ema50": 1.1766240483298402,
+        "rsi14": 33.96365445016255,
+        "volume_ratio": 0.9739265671948114,
+        "last_closed_timestamp": 1789285200000
       },
       "recent_candles": [
-        {
-          "timestamp": 1789282200000,
-          "open": 1.17689,
-          "high": 1.17689,
-          "low": 1.17413,
-          "close": 1.17461,
-          "volume": 20133.247938
-        },
         {
           "timestamp": 1789282500000,
           "open": 1.17236,
@@ -209,40 +201,40 @@
           "low": 1.171,
           "close": 1.17164,
           "volume": 6128.402985
+        },
+        {
+          "timestamp": 1789285200000,
+          "open": 1.17221,
+          "high": 1.17399,
+          "low": 1.17221,
+          "close": 1.173,
+          "volume": 33259.654377
         }
       ]
     },
     "15m": {
       "summary": {
         "count": 120,
-        "lookback_open": 1.17402,
-        "last_close": 1.17402,
+        "lookback_open": 1.17537,
+        "last_close": 1.173,
         "lookback_high": 1.19245,
         "lookback_low": 1.16782,
-        "lookback_volume": 7520814.824639,
-        "lookback_move_pct": 0.0,
-        "last_candle_move_pct": -0.004258689856639908,
-        "last_closed_timestamp": 1789283700000
+        "lookback_volume": 7555372.424397,
+        "lookback_move_pct": -0.20163863294111461,
+        "last_candle_move_pct": -0.08773200003405757,
+        "last_closed_timestamp": 1789284600000
       },
       "analysis": {
-        "price": 1.17402,
-        "last_high": 1.17479,
-        "last_low": 1.17361,
-        "ema20": 1.1771578024247946,
-        "ema50": 1.1778602346056493,
-        "rsi14": 35.194018525420915,
-        "volume_ratio": 0.2482821244690168,
-        "last_closed_timestamp": 1789283700000
+        "price": 1.173,
+        "last_high": 1.17403,
+        "last_low": 1.171,
+        "ema20": 1.1767618187159266,
+        "ema50": 1.1776727599717134,
+        "rsi14": 32.32522794315814,
+        "volume_ratio": 0.5270874766137474,
+        "last_closed_timestamp": 1789284600000
       },
       "recent_candles": [
-        {
-          "timestamp": 1789275600000,
-          "open": 1.17664,
-          "high": 1.17834,
-          "low": 1.17663,
-          "close": 1.1782,
-          "volume": 95611.919107
-        },
         {
           "timestamp": 1789276500000,
           "open": 1.17822,
@@ -314,6 +306,14 @@
           "low": 1.17361,
           "close": 1.17402,
           "volume": 23573.845927
+        },
+        {
+          "timestamp": 1789284600000,
+          "open": 1.17403,
+          "high": 1.17403,
+          "low": 1.171,
+          "close": 1.173,
+          "volume": 50516.679546
         }
       ]
     },
