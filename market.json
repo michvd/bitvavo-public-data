@@ -1,108 +1,108 @@
 {
-  "generated_at": "2026-09-16T01:36:31.002419+00:00",
+  "generated_at": "2026-09-16T01:37:36.022655+00:00",
   "market": "XRP-EUR",
-  "price": 1.11036,
+  "price": 1.11117,
   "ticker_24h": {
     "market": "XRP-EUR",
-    "last": 1.11091,
-    "open": 1.23116,
+    "last": 1.10861,
+    "open": 1.23092,
     "high": 1.26716,
     "low": 1.09522,
-    "volume": 98356879.414701,
-    "volume_quote": 115093417.2532919,
-    "bid": 1.1107,
-    "ask": 1.11071,
-    "change_pct": -9.767211410377202
+    "volume": 98428783.834643,
+    "volume_quote": 115172976.42505513,
+    "bid": 1.10882,
+    "ask": 1.10883,
+    "change_pct": -9.9364702823904
   },
   "spread": {
-    "bid": 1.1107,
-    "ask": 1.11071,
-    "spread": 1.0000000000065512e-05,
-    "spread_pct": 0.0009003290702810837
+    "bid": 1.10867,
+    "ask": 1.10878,
+    "spread": 0.0001100000000000545,
+    "spread_pct": 0.00992130600464989
   },
   "orderbook": {
     "bids": [
       {
-        "price": 1.1107,
-        "amount": 4738.491637
+        "price": 1.10867,
+        "amount": 3283.8
       },
       {
-        "price": 1.11067,
-        "amount": 5865.742943
+        "price": 1.10866,
+        "amount": 675.347493
       },
       {
-        "price": 1.11053,
-        "amount": 4.733568
+        "price": 1.10851,
+        "amount": 1347.221052
       },
       {
-        "price": 1.11052,
-        "amount": 6240.170379
+        "price": 1.1085,
+        "amount": 4266.2
       },
       {
-        "price": 1.11044,
+        "price": 1.10846,
         "amount": 21772.546917
       },
       {
-        "price": 1.11037,
-        "amount": 23418.6
+        "price": 1.10843,
+        "amount": 6255.748189
       },
       {
-        "price": 1.11029,
-        "amount": 22207.173352
+        "price": 1.10842,
+        "amount": 23455.9
       },
       {
-        "price": 1.11021,
-        "amount": 6236.721557
-      },
-      {
-        "price": 1.1102,
-        "amount": 18289.728714
-      },
-      {
-        "price": 1.11017,
+        "price": 1.10834,
         "amount": 21772.546917
+      },
+      {
+        "price": 1.10824,
+        "amount": 18317.331985
+      },
+      {
+        "price": 1.10816,
+        "amount": 207.881502
       }
     ],
     "asks": [
       {
-        "price": 1.11071,
-        "amount": 1171.067937
+        "price": 1.10878,
+        "amount": 1173.057221
       },
       {
-        "price": 1.11085,
-        "amount": 1567.70939
+        "price": 1.1088,
+        "amount": 6255.748189
       },
       {
-        "price": 1.11109,
-        "amount": 630.067
-      },
-      {
-        "price": 1.1111,
-        "amount": 2611.266864
-      },
-      {
-        "price": 1.11127,
-        "amount": 4681.931713
-      },
-      {
-        "price": 1.11144,
+        "price": 1.10881,
         "amount": 21772.546917
       },
       {
-        "price": 1.11152,
-        "amount": 6236.721557
+        "price": 1.10887,
+        "amount": 110.168082
       },
       {
-        "price": 1.11153,
-        "amount": 19162.775632
+        "price": 1.10901,
+        "amount": 21772.546917
       },
       {
-        "price": 1.11155,
-        "amount": 463.645466
+        "price": 1.10912,
+        "amount": 2345.411819
       },
       {
-        "price": 1.11159,
-        "amount": 4680.576472
+        "price": 1.1092,
+        "amount": 6255.748189
+      },
+      {
+        "price": 1.10921,
+        "amount": 22042.94574
+      },
+      {
+        "price": 1.1093,
+        "amount": 4690.047469
+      },
+      {
+        "price": 1.10936,
+        "amount": 2344.905061
       }
     ]
   },
@@ -529,6 +529,8 @@
     }
   },
   "market_context": {
-    "error": "HTTPSConnectionPool(host='api.bitvavo.com', port=443): Max retries exceeded with url: /v2/ticker/price?market=BTC-EUR (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    "BTC-EUR": 65488.0,
+    "ETH-EUR": 2077.28,
+    "ETH-BTC": 0.0317200097727828
   }
 }
