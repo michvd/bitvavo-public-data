@@ -1,108 +1,108 @@
 {
-  "generated_at": "2026-09-16T01:35:26.526180+00:00",
+  "generated_at": "2026-09-16T01:36:31.002419+00:00",
   "market": "XRP-EUR",
-  "price": 1.10951,
+  "price": 1.11036,
   "ticker_24h": {
     "market": "XRP-EUR",
-    "last": 1.11024,
-    "open": 1.23124,
+    "last": 1.11091,
+    "open": 1.23116,
     "high": 1.26716,
     "low": 1.09522,
-    "volume": 98327450.173213,
-    "volume_quote": 115061221.81305382,
-    "bid": 1.1098,
-    "ask": 1.10981,
-    "change_pct": -9.827490984698354
+    "volume": 98356879.414701,
+    "volume_quote": 115093417.2532919,
+    "bid": 1.1107,
+    "ask": 1.11071,
+    "change_pct": -9.767211410377202
   },
   "spread": {
-    "bid": 1.10992,
-    "ask": 1.10993,
+    "bid": 1.1107,
+    "ask": 1.11071,
     "spread": 1.0000000000065512e-05,
-    "spread_pct": 0.000900961776702526
+    "spread_pct": 0.0009003290702810837
   },
   "orderbook": {
     "bids": [
       {
-        "price": 1.10992,
-        "amount": 1015.06644
+        "price": 1.1107,
+        "amount": 4738.491637
       },
       {
-        "price": 1.10966,
-        "amount": 1356.684138
+        "price": 1.11067,
+        "amount": 5865.742943
       },
       {
-        "price": 1.10965,
-        "amount": 3281.1
-      },
-      {
-        "price": 1.1096,
-        "amount": 4344.9
-      },
-      {
-        "price": 1.10948,
-        "amount": 21772.546917
-      },
-      {
-        "price": 1.10943,
-        "amount": 6244.733295
-      },
-      {
-        "price": 1.10942,
-        "amount": 23436.9
-      },
-      {
-        "price": 1.10941,
-        "amount": 690.54769
-      },
-      {
-        "price": 1.1094,
+        "price": 1.11053,
         "amount": 4.733568
       },
       {
-        "price": 1.10937,
-        "amount": 1172.461245
-      }
-    ],
-    "asks": [
-      {
-        "price": 1.10993,
-        "amount": 1171.879772
-      },
-      {
-        "price": 1.11009,
-        "amount": 2343.457923
-      },
-      {
-        "price": 1.11027,
-        "amount": 4.696978
-      },
-      {
-        "price": 1.1104,
-        "amount": 395.911906
-      },
-      {
-        "price": 1.11043,
-        "amount": 6244.733295
+        "price": 1.11052,
+        "amount": 6240.170379
       },
       {
         "price": 1.11044,
         "amount": 21772.546917
       },
       {
-        "price": 1.11053,
-        "amount": 18279.560209
+        "price": 1.11037,
+        "amount": 23418.6
       },
       {
-        "price": 1.11066,
-        "amount": 5105.63204
+        "price": 1.11029,
+        "amount": 22207.173352
       },
       {
-        "price": 1.11067,
-        "amount": 4684.425948
+        "price": 1.11021,
+        "amount": 6236.721557
       },
+      {
+        "price": 1.1102,
+        "amount": 18289.728714
+      },
+      {
+        "price": 1.11017,
+        "amount": 21772.546917
+      }
+    ],
+    "asks": [
       {
         "price": 1.11071,
-        "amount": 501.708507
+        "amount": 1171.067937
+      },
+      {
+        "price": 1.11085,
+        "amount": 1567.70939
+      },
+      {
+        "price": 1.11109,
+        "amount": 630.067
+      },
+      {
+        "price": 1.1111,
+        "amount": 2611.266864
+      },
+      {
+        "price": 1.11127,
+        "amount": 4681.931713
+      },
+      {
+        "price": 1.11144,
+        "amount": 21772.546917
+      },
+      {
+        "price": 1.11152,
+        "amount": 6236.721557
+      },
+      {
+        "price": 1.11153,
+        "amount": 19162.775632
+      },
+      {
+        "price": 1.11155,
+        "amount": 463.645466
+      },
+      {
+        "price": 1.11159,
+        "amount": 4680.576472
       }
     ]
   },
@@ -123,9 +123,9 @@
         "price": 1.10951,
         "last_high": 1.11598,
         "last_low": 1.10933,
-        "ema20": 1.1152755431887136,
-        "ema50": 1.1193444093291274,
-        "rsi14": 37.4517557177751,
+        "ema20": 1.1153432581840086,
+        "ema50": 1.1193777987406173,
+        "rsi14": 36.61826711723246,
         "volume_ratio": 2.2980008892682156,
         "last_closed_timestamp": 1789522200000
       },
@@ -180,10 +180,10 @@
         },
         {
           "timestamp": 1789521300000,
-          "open": 1.11612,
+          "open": 1.11607,
           "high": 1.11702,
           "low": 1.11532,
-          "close": 1.11585,
+          "close": 1.11681,
           "volume": 39122.221003
         },
         {
@@ -529,8 +529,6 @@
     }
   },
   "market_context": {
-    "BTC-EUR": 65575.0,
-    "ETH-EUR": 2081.41,
-    "ETH-BTC": 0.031740907357987035
+    "error": "HTTPSConnectionPool(host='api.bitvavo.com', port=443): Max retries exceeded with url: /v2/ticker/price?market=BTC-EUR (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
   }
 }
