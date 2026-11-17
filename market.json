@@ -1,108 +1,108 @@
 {
-  "generated_at": "2026-11-17T16:22:16.792052+00:00",
+  "generated_at": "2026-11-17T16:23:17.716743+00:00",
   "market": "XRP-EUR",
-  "price": 0.87562,
+  "price": 0.87457,
   "ticker_24h": {
     "market": "XRP-EUR",
-    "last": 0.8776,
-    "open": 0.86795,
+    "last": 0.87457,
+    "open": 0.86947,
     "high": 0.89066,
     "low": 0.85843,
-    "volume": 21033106.641749,
-    "volume_quote": 18376294.11395443,
-    "bid": 0.87606,
-    "ask": 0.87616,
-    "change_pct": 1.1118151967279275
+    "volume": 20786450.35651,
+    "volume_quote": 18161947.483365107,
+    "bid": 0.87455,
+    "ask": 0.87456,
+    "change_pct": 0.586564228783051
   },
   "spread": {
-    "bid": 0.87625,
-    "ask": 0.8764,
-    "spread": 0.00014999999999998348,
-    "spread_pct": 0.017116937209366787
+    "bid": 0.87411,
+    "ask": 0.87422,
+    "spread": 0.00010999999999994348,
+    "spread_pct": 0.012583436765363916
   },
   "orderbook": {
     "bids": [
       {
-        "price": 0.87625,
-        "amount": 854.788642
+        "price": 0.87411,
+        "amount": 856.881364
       },
       {
-        "price": 0.87624,
-        "amount": 518.813672
+        "price": 0.8741,
+        "amount": 815.719879
       },
       {
-        "price": 0.87618,
-        "amount": 3109.629716
+        "price": 0.87409,
+        "amount": 1046.445416
       },
       {
-        "price": 0.87616,
-        "amount": 12451.528144
+        "price": 0.87404,
+        "amount": 12456.956597
       },
       {
-        "price": 0.87615,
-        "amount": 46232.540577
+        "price": 0.87403,
+        "amount": 49687.670779
       },
       {
-        "price": 0.87607,
-        "amount": 20226.576523
+        "price": 0.87396,
+        "amount": 7794.21471
       },
       {
-        "price": 0.87606,
-        "amount": 46232.540577
+        "price": 0.87389,
+        "amount": 519.039858
       },
       {
-        "price": 0.87596,
-        "amount": 46232.540577
+        "price": 0.87388,
+        "amount": 46570.232038
       },
       {
-        "price": 0.87592,
-        "amount": 10274.91095
+        "price": 0.87385,
+        "amount": 1038.89811
       },
       {
-        "price": 0.87587,
-        "amount": 1036.325953
+        "price": 0.87381,
+        "amount": 18095.327568
       }
     ],
     "asks": [
       {
-        "price": 0.8764,
-        "amount": 12451.528144
-      },
-      {
-        "price": 0.87641,
-        "amount": 46676.719214
-      },
-      {
-        "price": 0.87645,
+        "price": 0.87422,
         "amount": 1433.450383
       },
       {
-        "price": 0.87649,
-        "amount": 12451.528144
+        "price": 0.87424,
+        "amount": 519.039858
       },
       {
-        "price": 0.8765,
+        "price": 0.87425,
+        "amount": 746.687668
+      },
+      {
+        "price": 0.87432,
+        "amount": 3116.443784
+      },
+      {
+        "price": 0.87435,
+        "amount": 7790.910505
+      },
+      {
+        "price": 0.87438,
+        "amount": 176.285499
+      },
+      {
+        "price": 0.87441,
+        "amount": 13495.832576
+      },
+      {
+        "price": 0.87442,
         "amount": 46676.719214
       },
       {
-        "price": 0.87653,
-        "amount": 7771.000966
+        "price": 0.8745,
+        "amount": 1464.462108
       },
       {
-        "price": 0.87659,
-        "amount": 12451.528144
-      },
-      {
-        "price": 0.8766,
-        "amount": 48141.181322
-      },
-      {
-        "price": 0.87662,
-        "amount": 2072.585279
-      },
-      {
-        "price": 0.87671,
-        "amount": 46676.719214
+        "price": 0.87451,
+        "amount": 59133.675811
       }
     ]
   },
@@ -529,8 +529,6 @@
     }
   },
   "market_context": {
-    "BTC-EUR": 58281.0,
-    "ETH-EUR": 1621.94,
-    "ETH-BTC": 0.02782965288859148
+    "error": "HTTPSConnectionPool(host='api.bitvavo.com', port=443): Max retries exceeded with url: /v2/ticker/price?market=BTC-EUR (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
   }
 }
