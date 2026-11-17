@@ -1,108 +1,108 @@
 {
-  "generated_at": "2026-11-17T16:23:17.716743+00:00",
+  "generated_at": "2026-11-17T16:24:17.937471+00:00",
   "market": "XRP-EUR",
   "price": 0.87457,
   "ticker_24h": {
     "market": "XRP-EUR",
-    "last": 0.87457,
-    "open": 0.86947,
+    "last": 0.87418,
+    "open": 0.86988,
     "high": 0.89066,
     "low": 0.85843,
-    "volume": 20786450.35651,
-    "volume_quote": 18161947.483365107,
-    "bid": 0.87455,
-    "ask": 0.87456,
-    "change_pct": 0.586564228783051
+    "volume": 20756042.189882,
+    "volume_quote": 18135520.6879715,
+    "bid": 0.8739,
+    "ask": 0.87391,
+    "change_pct": 0.49432105577780505
   },
   "spread": {
-    "bid": 0.87411,
-    "ask": 0.87422,
-    "spread": 0.00010999999999994348,
-    "spread_pct": 0.012583436765363916
+    "bid": 0.87387,
+    "ask": 0.87388,
+    "spread": 9.99999999995449e-06,
+    "spread_pct": 0.00114432842225198
   },
   "orderbook": {
     "bids": [
       {
-        "price": 0.87411,
-        "amount": 856.881364
+        "price": 0.87387,
+        "amount": 958.125279
       },
       {
-        "price": 0.8741,
-        "amount": 815.719879
+        "price": 0.8738,
+        "amount": 895.790124
       },
       {
-        "price": 0.87409,
-        "amount": 1046.445416
+        "price": 0.87379,
+        "amount": 2090.176956
       },
       {
-        "price": 0.87404,
-        "amount": 12456.956597
+        "price": 0.87376,
+        "amount": 12456.558124
       },
       {
-        "price": 0.87403,
-        "amount": 49687.670779
+        "price": 0.87375,
+        "amount": 47278.131866
       },
       {
-        "price": 0.87396,
-        "amount": 7794.21471
+        "price": 0.87362,
+        "amount": 619.54693
       },
       {
-        "price": 0.87389,
-        "amount": 519.039858
+        "price": 0.87359,
+        "amount": 47278.131866
       },
       {
-        "price": 0.87388,
-        "amount": 46570.232038
+        "price": 0.87358,
+        "amount": 12456.558124
       },
       {
-        "price": 0.87385,
-        "amount": 1038.89811
+        "price": 0.87357,
+        "amount": 7794.647393
       },
       {
-        "price": 0.87381,
-        "amount": 18095.327568
+        "price": 0.8735,
+        "amount": 47278.131866
       }
     ],
     "asks": [
       {
-        "price": 0.87422,
-        "amount": 1433.450383
+        "price": 0.87388,
+        "amount": 857.087276
       },
       {
-        "price": 0.87424,
-        "amount": 519.039858
+        "price": 0.87389,
+        "amount": 128.466499
       },
       {
-        "price": 0.87425,
-        "amount": 746.687668
+        "price": 0.87395,
+        "amount": 1335.648679
       },
       {
-        "price": 0.87432,
-        "amount": 3116.443784
+        "price": 0.87404,
+        "amount": 7790.533186
       },
       {
-        "price": 0.87435,
-        "amount": 7790.910505
+        "price": 0.87405,
+        "amount": 12456.558124
       },
       {
-        "price": 0.87438,
-        "amount": 176.285499
+        "price": 0.87406,
+        "amount": 52867.601003
       },
       {
-        "price": 0.87441,
-        "amount": 13495.832576
-      },
-      {
-        "price": 0.87442,
-        "amount": 46676.719214
-      },
-      {
-        "price": 0.8745,
+        "price": 0.8741,
         "amount": 1464.462108
       },
       {
-        "price": 0.87451,
-        "amount": 59133.675811
+        "price": 0.87411,
+        "amount": 1038.939657
+      },
+      {
+        "price": 0.87414,
+        "amount": 12456.558124
+      },
+      {
+        "price": 0.87415,
+        "amount": 50780.193123
       }
     ]
   },
@@ -529,6 +529,8 @@
     }
   },
   "market_context": {
-    "error": "HTTPSConnectionPool(host='api.bitvavo.com', port=443): Max retries exceeded with url: /v2/ticker/price?market=BTC-EUR (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    "BTC-EUR": 58281.0,
+    "ETH-EUR": 1621.94,
+    "ETH-BTC": 0.02782965288859148
   }
 }
